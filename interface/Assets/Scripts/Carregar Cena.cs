@@ -1,12 +1,17 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class LoadScene : MonoBehaviour
+
+public class CarregarCena : MonoBehaviour
 {
-    public string sceneName;
+
+    public string nomeDaCena;
     
     
-    public void Load()
+    public void  Carregar()
+    
     {
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene(nomeDaCena);
     }
+
+   
 }
