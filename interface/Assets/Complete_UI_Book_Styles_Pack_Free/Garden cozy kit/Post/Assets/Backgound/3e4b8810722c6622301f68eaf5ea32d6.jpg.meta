@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 945bda9a184a664498f89ce0189acc98
+guid: 80c59c4e2f188ab419278130e3d5337f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7644982527321810408
-    second: Butterfly-8_0
+      213: 8662870798050667474
+    second: 3e4b8810722c6622301f68eaf5ea32d6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Butterfly-8_0
+      name: 3e4b8810722c6622301f68eaf5ea32d6_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 34
-        height: 30
+        width: 707
+        height: 398
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e5a51f8a1f681a60800000000000000
-      internalID: 7644982527321810408
+      spriteID: 2db2aecc713b83870800000000000000
+      internalID: 8662870798050667474
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Butterfly-8_0: 7644982527321810408
+      3e4b8810722c6622301f68eaf5ea32d6_0: 8662870798050667474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
