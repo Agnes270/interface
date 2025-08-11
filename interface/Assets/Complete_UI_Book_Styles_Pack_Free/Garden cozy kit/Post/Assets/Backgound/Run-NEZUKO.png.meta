@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Run-NEZUKO_0: -726972675153268019
+      Run-NEZUKO_1: 1615009071389001237
+      Run-NEZUKO_2: 3908584928563185770
+      Run-NEZUKO_3: -4433401911728148463
+      Run-NEZUKO_4: 1420575118980221791
+      Run-NEZUKO_5: 8236203661528091919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
