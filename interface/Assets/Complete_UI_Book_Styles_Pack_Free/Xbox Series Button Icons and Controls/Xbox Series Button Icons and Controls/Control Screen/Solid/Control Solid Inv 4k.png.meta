@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Control Solid Inv 4k_0: 692761160453650733
+      Control Solid Inv 4k_1: 5266297440268584399
+      Control Solid Inv 4k_2: -8776874256592960048
+      Control Solid Inv 4k_3: 7878920657448268256
+      Control Solid Inv 4k_4: 1879773980878927153
+      Control Solid Inv 4k_5: 4569170641253246907
+      Control Solid Inv 4k_6: -5937496740984511137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

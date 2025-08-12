@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Control Solid Alt Inv 4k_0: -7614538527879645648
+      Control Solid Alt Inv 4k_1: -5918985941944483172
+      Control Solid Alt Inv 4k_2: 6946067251174516065
+      Control Solid Alt Inv 4k_3: -5335763326015246218
+      Control Solid Alt Inv 4k_4: 9015474479580649899
+      Control Solid Alt Inv 4k_5: -4487606771636484795
+      Control Solid Alt Inv 4k_6: 6527847946751569999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

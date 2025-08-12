@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Controls Outline Black 4k_0: 3358195303546497289
+      Controls Outline Black 4k_1: -1880064730862122258
+      Controls Outline Black 4k_2: 1307691974986234260
+      Controls Outline Black 4k_3: -1895754248189512985
+      Controls Outline Black 4k_4: -7524780744421525466
+      Controls Outline Black 4k_5: 5418205147510032117
+      Controls Outline Black 4k_6: -6896669648552071308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
